@@ -6,6 +6,6 @@ In this study I build a custmom made Machine Learning work flow for classifying 
 Events from measurement with poylmers with different folding state can be classified automatically with general accuracy of 93%. 
 
 
-![picture alt]https://github.com/jaybfn/Single_Molecule_Event_Classification/blob/main/my_code/NanoporeCartoon.png
+![picture alt]
 
 Once the paper is published, the data for the model will be available as public.
